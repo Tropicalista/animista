@@ -20,10 +20,10 @@ You will have all animations provided by animate.css.
 
 Animate Gutenberg blocks when they scroll into view.
 
-Works with all existing Gutenberg blocks
-Choose from 27 different animations
-Configure animation with custom delays, offsets and durations
-Based on https://animate.style/
+*Works with all existing Gutenberg blocks
+*Choose from 27 different animations
+*Configure animation with custom delays, offsets and durations
+*Based on https://animate.style/
 
 == Changelog ==
 

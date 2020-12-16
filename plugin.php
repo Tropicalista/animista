@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Animista
  * Plugin URI: https://www.francescopepe.com
- * Description: Animista — is a plugin that adds animation to your blocks.
+ * Description: Animista — is a plugin that adds animation to your blocks. You can also set the ripetition time and choose to animate blocks only when scrolling page.
  * Author: Francesco Pepe
  * Author URI: https://www.francescopepe.com/
  * Version: 1.0.0

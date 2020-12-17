@@ -1,0 +1,16 @@
+.animista {
+	position: relative;
+}
+
+.animista[data-emergence=hidden] {
+	&.hide-before {
+		opacity: 0;
+	}
+}
+
+.animista[data-emergence=visible] {
+	&.show-after {
+		opacity: 1;
+		z-index: 1;
+	}
+}
